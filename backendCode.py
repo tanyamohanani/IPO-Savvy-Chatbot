@@ -19,8 +19,8 @@ from langchain_pinecone import Pinecone
 #Define API Keys and Pinecone Database Index
 
 import os
-os.environ['OPENAI_API_KEY'] = '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'
-os.environ['PINECONE_API_KEY'] = 'd677dc0b-e405-4d3c-8a89-afd69503e8fd'
+os.environ['OPENAI_API_KEY'] = 'Enter Your Key'
+os.environ['PINECONE_API_KEY'] = 'Enter Your Key'
 
 index_name = "ipo-analysis"
 embeddings = OpenAIEmbeddings()
