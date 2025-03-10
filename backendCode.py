@@ -1,3 +1,4 @@
+#RUN THIS FILE AS .ipynb FILE
 #Import libraries
 
 !pip install langchain_pinecone
